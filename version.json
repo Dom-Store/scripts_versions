@@ -1,14 +1,5 @@
 {
 	"dom_module":[
-		"2.0.1"
-	],
-	"dom_mortes":[
-		"1.10.6"
-	],
-	"dom_rouboveiculo":[
-		"1.0.0"
-    ],
-	"dom_desmanche":[
-		"1.0.0"
-    ]
+		"2.0.2"
+	]
 }
