@@ -1,11 +1,11 @@
 {
-	"dom_module":[
+	"dom_module": [
 		"5.0.1"
 	],
-	"auto_rr":[
-		"3.0.1"
+	"auto_rr": [
+		"4.0.0"
 	],
-	"git_api":[
-		"3.0.0"
+	"git_api": [
+		"4.0.0"
 	]
 }
